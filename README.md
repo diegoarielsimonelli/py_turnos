@@ -30,9 +30,11 @@ if len(fila_psiquiatra) == 0 and len(fila_clinico) == 0:
 La opción 4 despliega una lista de todos los pacientes asignados a cada profesional.
 La opción 5 es la salida del bucle.
 
-##Crecimiento del Proyecto
+##Crecimiento del Proyecto  
+
 Este programa tiene muchas posibilidades de desarrollo. Se podría personalizar de acuerdo a las necesidades del cliente. En próximas versiones se planea agregarle más funciones como llevar un registro de datos de pacientes, completar la historia clínica, etc.
 
 
-##Versionado
+##Versionado  
+
 Versión 1.0
