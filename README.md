@@ -2,9 +2,6 @@
 ##Síntesis
 Es un sistema de turnos básico pensado para un consultorio medico en el que trabajen varias especialidades. En este caso, solo atienden dos especialidades: un médico clínico y un psiquiatra. Se desarrollo con conceptos básicos de Python.
 
-
-![ilustración]( https://es.vexels.com/vectores/vista-previa/178533/consultorio-medico-hospital-diseno-grafico)
-
 ###Descripción
 El programa inicia en su menú principal.
 ```
@@ -26,7 +23,10 @@ if len(fila_psiquiatra) == 0 and len(fila_clinico) == 0:
     elif len(fila_psiquiatra) > 0 and len(fila_clinico) >= 3:
         print('El médico clinico está atendiendo.Hay mucha demora.Por favor, espere.')
     else:
-        print(' Los profesionales están atendiendo. Saque turno y espere, por favor.')```
+        print(' Los profesionales están atendiendo. Saque turno y espere, por favor.')
+```
+
+
 La opción 4 despliega una lista de todos los pacientes asignados a cada profesional.
 La opción 5 es la salida del bucle.
 ##Crecimiento del Proyecto
