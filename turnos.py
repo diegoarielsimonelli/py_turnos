@@ -6,7 +6,7 @@ fila_psiquiatra = {}
 def _menu():
     print('¡Bienvenido/a a Turnos para tu Salud!')
     print('Con un N° del 1 al 5 selecciona una opción:')
-    print('[1] ¿Desea atenderse con un Médico Clinico?')
+    print('[1] ¿Desea atenderse con un Médico Clínico?')
     print('[2] ¿Desea atenderse con un psiquiatra?')
     print('[3] ¿Hay mucha demora?')
     print('[4] Listado de pacientes con turno.')
