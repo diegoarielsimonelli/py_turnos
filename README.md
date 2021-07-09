@@ -2,7 +2,7 @@
 ##Síntesis
 Es un sistema de turnos básico pensado para un consultorio medico en el que trabajen varias especialidades. En este caso, solo atienden dos especialidades: un médico clínico y un psiquiatra. Se desarrollo con conceptos básicos de Python.
 
-###Descripción
+##Descripción
 El programa inicia en su menú principal.
 ```
 print('¡Bienvenido/a a Turnos para tu Salud!')
