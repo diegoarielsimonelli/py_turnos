@@ -38,7 +38,7 @@ La opción 5 es la salida del bucle.
 Este programa tiene muchas posibilidades de desarrollo. Se podría personalizar de acuerdo a las necesidades del cliente. En próximas versiones se planea agregarle más funciones como llevar un registro de datos de pacientes, completar la historia clínica, etc.
 
 ##  Diagrama de flujo
-![Diagrama](turnos para tu salud.jpg)
+![Diagrama](turnosparatusalud.png)
 
 ##  Versionado
 
