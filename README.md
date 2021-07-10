@@ -1,10 +1,10 @@
 # Turnos  
 
-##Síntesis  
+##  Síntesis
 
 Es un sistema de turnos básico pensado para un consultorio medico en el que trabajen varias especialidades. En este caso, solo atienden dos especialidades: un médico clínico y un psiquiatra. Se desarrollo con conceptos básicos de Python.
 
-##Descripción  
+##   Descripción   
 
 El programa inicia en su menú principal.
 ```
@@ -33,11 +33,13 @@ if len(fila_psiquiatra) == 0 and len(fila_clinico) == 0:
 La opción 4 despliega una lista de todos los pacientes asignados a cada profesional.
 La opción 5 es la salida del bucle.
 
-##Crecimiento del Proyecto  
+##  Crecimineto del Proyecto
 
 Este programa tiene muchas posibilidades de desarrollo. Se podría personalizar de acuerdo a las necesidades del cliente. En próximas versiones se planea agregarle más funciones como llevar un registro de datos de pacientes, completar la historia clínica, etc.
 
+##  Diagrama de flujo
+![Diagrama](turnos para tu salud.jpg)
 
-##Versionado  
+##  Versionado
 
 Versión 1.0
